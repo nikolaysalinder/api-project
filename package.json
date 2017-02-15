@@ -1,0 +1,27 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "learn freeCodeCamp api-project",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nikolaysalinder/api-project.git"
+  },
+  "keywords": [
+    "learn",
+    "freecodecamp",
+    "api-project"
+  ],
+  "author": "nikolaysalinder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikolaysalinder/api-project/issues"
+  },
+  "homepage": "https://github.com/nikolaysalinder/api-project#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
